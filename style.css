@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    
+   
+}
+strong {color: rgb(0, 106, 255);
+
+}
+.apresentacao{
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 488px;
+    height: 550px;
+    top: 278px;
+    
+    
+  
+
+}
+.apresentacao__conteudo {
+    width: 615px;
+    height: 482px;
+    top: 278px;
+    left: 357px;
+    border-radius: 16px;
+    display: flex;
+width: 593px;
+flex-direction: column;
+align-items: flex-start;
+gap: 40px;
+align-items: center;
+
+    
+    
+    
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+    width: 593px;
+    height: 168px;
+    font-family: Krona One;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.apresentacao__conteudo__texto{
+    font-size: 24px;
+    width: 593px;
+    height: 144px;  
+    line-height: 36px;
+    
+}
+.apresentacao__conteudo__imagem{
+    width: 488px;
+    height: 550px;
+    top: 235px;
+    left: 1030px;
+    border-radius: 16px;
+}
+.apresentacao__conteudo__botao{
+    display: flex;
+width: 180px;
+height: 79px;
+padding: 16px;
+justify-content: center;
+align-items: center;
+gap: 16px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 0px solid #22D4FD;
+background: #22D4FD;
+
+
+
+
+
+    
+
+    
+}
+.apresentacao__conteudo__link{
+    width: 91px;
+    height: 36px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+}
+.apresentacao__conteudo__botao2{
+    display: flex;
+width: 180px;
+height: 79px;
+padding: 16px;
+justify-content: center;
+align-items: center;
+gap: 16px;
+flex-shrink: 0;
+background-color: #22D4FD ;
+border-radius: 16px;
+border: 0px solid #22D4FD;
+background: #22D4FD;
+
+
+
+
+}
+.apresentacao__conteudo__link2{
+    width: 174px;
+    height: 36px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+}
